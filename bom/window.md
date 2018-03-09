@@ -207,10 +207,10 @@ navigator.cookieEnabled // true
 
 ```javascript
 // 显示设备的高度，单位为像素
-screen.height // 1920
+screen.height // 1080
 
 // 显示设备的宽度，单位为像素
-screen.width // 1080
+screen.width // 1920
 ```
 
 上面代码显示，某设备的分辨率是1920x1080。
